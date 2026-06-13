@@ -29,3 +29,14 @@ Based on the dashboard and data analysis:
 * Descriptive Statistics: Calculating Mean, Median, Standard Deviation, and Outliers (IQR Method) for Unit Price and Quantities.
 
 * Correlation Analysis: Determining relationships between variables like Price, Quantity, and Cart items.
+
+
+<img width="953" height="466" alt="1000755546" src="https://github.com/user-attachments/assets/d68884c8-bc0e-4077-9991-38e15004eae8" />
+
+
+
+
+- [Download the Excel Dataset](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQD9Kz98XS2hTYBijtlfGwkUAbzhaBYpef3Au-31hCAB3yw?e=KPbcB6)
+- [View Dashboard Screenshot](Dashboard%20Screenshot.png)
+
+

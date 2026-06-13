@@ -33,5 +33,5 @@ Based on the dashboard and data analysis:
 
   # Files in this repository  
 - [Download Excel Dataset](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQAO8Xjc6OUSTbzv-P6YzgoWAY2C2cqEqjTbmR7eTtagw2c?e=fJCeWr)
-- [View Analysis Screenshot](Dashboard%20Screenshot.png)
+- [View Analysis Screenshot](Screenshot.png)
 

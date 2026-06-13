@@ -30,13 +30,15 @@ Based on the dashboard and data analysis:
 
 * Correlation Analysis: Determining relationships between variables like Price, Quantity, and Cart items.
 
-
-<img width="953" height="466" alt="1000755546" src="https://github.com/user-attachments/assets/d68884c8-bc0e-4077-9991-38e15004eae8" />
-
+## View Analysis Screenshot
 
 
+<img width="1888" height="920" alt="1000765237" src="https://github.com/user-attachments/assets/0f08f275-e3a0-439b-9a97-8ddb5e93336a" />
 
-- [Download the Excel Dataset](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQD9Kz98XS2hTYBijtlfGwkUAbzhaBYpef3Au-31hCAB3yw?e=KPbcB6)
+## Files in The Repository 
+
+
+- [Download the Excel Dashboard](https://1drv.ms/x/c/e2a3b45f6c0dabc5/IQDHW6g4_y9NQ5L0Kmz6JFsdAWwNrIcFOxgJSuzD2rL0iSI?e=mUHgsY)
 - [View Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 

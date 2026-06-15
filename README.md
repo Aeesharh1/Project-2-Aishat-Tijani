@@ -1,4 +1,4 @@
-#Decodelabs Data Analytics Internship - Project 2
+# Decodelabs Data Analytics Internship - Project 2
 
 
 ## Project Overview 
@@ -17,10 +17,12 @@ Based on the dashboard and data analysis:
 * Marketing Efficiency: Instagram is the most effective referral source, driving over $275,000 in sales, followed closely by Email marketing.
 
 
-* Customer Behavior: There is a strong positive correlation (0.72) between Total Sales and Unit Price, suggesting that higher-ticket items significantly drive the revenue stream.
+* Customer Behavior: There is a strong positive correlation (0.72) between Total Sales and Unit Price.
 
 
-* Payment Trends: Credit Cards are the most preferred payment method, accounting for approximately 21% of total revenue.Seasonality: Sales peaked in June ($170,616), showing a clear upward trend throughout the first half of the year.
+* Payment Trends: Credit Cards are the most preferred payment method, accounting for approximately 21% of total revenue.
+
+* Seasonality: Sales peaked in June ($170,616), showing a clear upward trend throughout the first half of the year.
 
 
 ## Tools & Techniques Used
